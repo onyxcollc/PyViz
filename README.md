@@ -4,4 +4,4 @@ I created a Dashboard analyzing real estate trends in the San Francisco market. 
 
 ![Dashboard](/Images/dashboard-demo.gif
 
-)
+
